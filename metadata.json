@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aldella",
+  "description": "Aldella Company Production factory operations workspace for attendance, complaints, downtime, live process monitoring, team chat, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
